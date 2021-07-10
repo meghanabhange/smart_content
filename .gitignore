@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/*
+smart/fire_template.py
+*.DS_Store
