@@ -2049,7 +2049,7 @@
       {
         "Topic": "Statements",
         "code": [
-          "print(1)\nx = 2\nprint(x)"
+          ">>> print(1)\n>>> x = 2\n>>> print(x)"
         ],
         "text": [
           "A statement is a unit of code that the Python interpreter can execute. We have seen two kinds of statements: print being an expression statement and assignment.",
@@ -2064,7 +2064,7 @@
       {
         "Topic": "Operators and operands",
         "code": [
-          "20+32\nhour-1\nhour*60+minute\nminute/60\n5**2\n(5+9)*(15-7)",
+          ">>> 20+32\n>>> hour-1\n>>> hour*60+minute\n>>> minute/60\n>>> 5**2\n>>> (5+9)*(15-7)",
           ">>> minute = 59\n>>> minute/60\n0.9833333333333333",
           ">>> minute = 59\n>>> minute/60\n0",
           ">>> minute = 59\n>>> minute//60\n0"
@@ -2083,9 +2083,9 @@
       {
         "Topic": "Expressions",
         "code": [
-          "17\nx\nx + 17",
+          ">>> 17\n>>> x\n>>> x + 17",
           ">>> 1 + 1\n2",
-          "5\nx = 5\nx + 1"
+          ">>> 5\n>>> x = 5\n>>> x + 1"
         ],
         "text": [
           "An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value):",
@@ -2161,10 +2161,10 @@
       {
         "Topic": "Comments",
         "code": [
-          "# compute the percentage of the hour that has elapsed\npercentage = (minute * 100) / 60",
-          "percentage = (minute * 100) / 60     # percentage of an hour",
-          "v = 5     # assign 5 to v",
-          "v = 5     # velocity in meters/second."
+          ">>> # compute the percentage of the hour that has elapsed\n>>> percentage = (minute * 100) / 60",
+          ">>> percentage = (minute * 100) / 60     # percentage of an hour",
+          ">>> v = 5     # assign 5 to v",
+          ">>> v = 5     # velocity in meters/second."
         ],
         "text": [
           "",
@@ -2181,11 +2181,11 @@
       {
         "Topic": "Choosing mnemonic variable names",
         "code": [
-          "a = 35.0\nb = 12.50\nc = a * b\nprint(c)",
-          "hours = 35.0\nrate = 12.50\npay = hours * rate\nprint(pay)",
-          "x1q3z9ahd = 35.0\nx1q3z9afd = 12.50\nx1q3p9afd = x1q3z9ahd * x1q3z9afd\nprint(x1q3p9afd)",
-          "for word in words:\n    print(word)",
-          "for slice in pizza:\n    print(slice)"
+          ">>> a = 35.0\n>>> b = 12.50\n>>> c = a * b\n>>> print(c)",
+          ">>> hours = 35.0\n>>> rate = 12.50\n>>> pay = hours * rate\n>>> print(pay)",
+          ">>> x1q3z9ahd = 35.0\n>>> x1q3z9afd = 12.50\n>>> x1q3p9afd = x1q3z9ahd * x1q3z9afd\n>>> print(x1q3p9afd)",
+          ">>> for word in words:\n>>>     print(word)",
+          ">>> for slice in pizza:\n>>>     print(slice)"
         ],
         "text": [
           "",
@@ -2598,7 +2598,7 @@
       {
         "Topic": "Words and sentences",
         "code": [
-          "print('Hello world!')"
+          ">>> print('Hello world!')"
         ],
         "text": [
           " ",
@@ -2676,7 +2676,7 @@
       {
         "Topic": "What is a program?",
         "code": [
-          "name = input('Enter file:')\nhandle = open(name, 'r')\ncounts = dict()\n\nfor line in handle:\n    words = line.split()\n    for word in words:\n        counts[word] = counts.get(word, 0) + 1\n\nbigcount = None\nbigword = None\nfor word, count in list(counts.items()):\n    if bigcount is None or count > bigcount:\n        bigword = word\n        bigcount = count\n\nprint(bigword, bigcount)\n\n# Code: http://www.py4e.com/code3/words.py"
+          ">>> name = input('Enter file:')\n>>> handle = open(name, 'r')\n>>> counts = dict()\n>>> \n>>> for line in handle:\n>>>     words = line.split()\n>>>     for word in words:\n>>>         counts[word] = counts.get(word, 0) + 1\n>>> \n>>> bigcount = None\n>>> bigword = None\n>>> for word, count in list(counts.items()):\n>>>     if bigcount is None or count > bigcount:\n>>>         bigword = word\n>>>         bigcount = count\n>>> \n>>> print(bigword, bigcount)\n>>> \n>>> # Code: http://www.py4e.com/code3/words.py"
         ],
         "text": [
           "The definition of a program at its most basic is a sequence of Python statements that have been crafted to do something. Even our simple hello.py script is a program. It is a one-line program and is not particularly useful, but in the strictest definition, it is a Python program.",
@@ -2751,8 +2751,8 @@
         "Topic": "Exercises",
         "code": [
           ">>> primt 'Hello world!'\nFile \"<stdin>\", line 1\n  primt 'Hello world!'\n                     ^\nSyntaxError: invalid syntax\n>>>",
-          "x = 123",
-          "x = 43\nx = x + 1\nprint(x)"
+          ">>> x = 123",
+          ">>> x = 43\n>>> x = x + 1\n>>> print(x)"
         ],
         "text": [
           "Exercise 1: What is the function of the secondary memory in a computer?",
@@ -3118,7 +3118,7 @@
         "code": [
           ">>> 5 == 5\nTrue\n>>> 5 == 6\nFalse",
           ">>> type(True)\n<class 'bool'>\n>>> type(False)\n<class 'bool'>",
-          "x != y               # x is not equal to y\nx > y                # x is greater than y\nx < y                # x is less than y\nx >= y               # x is greater than or equal to y\nx <= y               # x is less than or equal to y\nx is y               # x is the same as y\nx is not y           # x is not the same as y"
+          ">>> x != y               # x is not equal to y\n>>> x > y                # x is greater than y\n>>> x < y                # x is less than y\n>>> x >= y               # x is greater than or equal to y\n>>> x <= y               # x is less than or equal to y\n>>> x is y               # x is the same as y\n>>> x is not y           # x is not the same as y"
         ],
         "text": [
           " ",
@@ -3150,8 +3150,8 @@
       {
         "Topic": "Conditional execution",
         "code": [
-          "if x > 0 :\n    print('x is positive')",
-          "if x < 0 :\n    pass          # need to handle negative values!",
+          ">>> if x > 0 :\n>>>    print('x is positive')",
+          ">>> if x < 0 :\n>>>    pass          # need to handle negative values!",
           ">>> x = 3\n>>> if x < 10:\n...    print('Small')\n...\nSmall\n>>>",
           ">>> x = 3\n>>> if x < 10:\n...    print('Small')\n... print('Done')\n  File \"<stdin>\", line 3\n    print('Done')\n        ^\nSyntaxError: invalid syntax"
         ],
