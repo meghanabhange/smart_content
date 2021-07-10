@@ -2,7 +2,7 @@ import streamlit as st
 import json 
 from pathlib import Path
 
-output_path = Path("data/output.json")
+output_path = Path("output.json")
 
 st.title("Code Extraction Demo")
 
