@@ -39,14 +39,14 @@ for ctx in chapter_content:
         with col2:
             st.markdown("## Code")
             for code in ctx["code"]:
-                st.code(code)
-                # codelines = code.split("\n")
-                # execcode = [line[4:] for line in codelines if line[:3]==">>>"]
-                # outputcode = [line for line in codelines if line[:3]!=">>>"]
-                # execcode = "\n".join(execcode)
-                # outputcode = "\n".join(outputcode)
-                # st.code(execcode)
-                # st.text(outputcode)
+                # st.code(code)
+                codelines = code.split("\n")
+                execcode = [line[4:] for line in codelines if line[:3]==">>>"]
+                outputcode = [line for line in codelines if line[:3]!=">>>"]
+                execcode = "\n".join(execcode)
+                outputcode = "\n".join(outputcode)
+                st.code(execcode)
+                st.text(outputcode)
                 # content = st_ace(execcode, key=code, language="python", theme="chaos", )
 
         
