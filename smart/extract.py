@@ -45,10 +45,10 @@ def extract(output_file="data/output.json"):
         output[file_name] = {"title": title, "content": []}
 
         for page in pages:
-            code = [ele.getText() for ele in soup.find_all("pre", {"class": "python"})]
-            text = [ele.getText() for ele in soup.find_all("p")]
+            code = [ele.getText() for ele in page.find_all("pre", {"class": "python"})]
+            text = [ele.getText() for ele in page.find_all("p")]
             output[file_name]["content"].append(
-                {"Topic": page.find("h2").getText(), "code": code, "text": text}
+                {"Topic": page.find("h2").getText(), "code": code, "text": text, "keyphrases" : [], "Arxiv Paper" : []}
             )
     output_file = Path(output_file)
     json.dump(output, output_file.open("w"), indent=2)

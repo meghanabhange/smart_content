@@ -17,3 +17,9 @@ python -m smart.download
 ```
 python -m smart.extract
 ```
+
+## Running the Application
+
+```
+streamlit run app.py
+```
