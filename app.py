@@ -1,6 +1,8 @@
 import streamlit as st
 import json 
 from pathlib import Path
+import random
+# from streamlit_ace import st_ace
 
 output_path = Path("output.json")
 
@@ -37,5 +39,14 @@ for ctx in chapter_content:
         with col2:
             st.markdown("## Code")
             for code in ctx["code"]:
-                st.text(code)
+                st.code(code)
+                # codelines = code.split("\n")
+                # execcode = [line[4:] for line in codelines if line[:3]==">>>"]
+                # outputcode = [line for line in codelines if line[:3]!=">>>"]
+                # execcode = "\n".join(execcode)
+                # outputcode = "\n".join(outputcode)
+                # st.code(execcode)
+                # st.text(outputcode)
+                # content = st_ace(execcode, key=code, language="python", theme="chaos", )
+
         
