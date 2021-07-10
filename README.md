@@ -6,12 +6,6 @@
 pip install requirments.txt
 ```
 
-## Downloading files
-
-```
-python -m smart.download
-```
-
 ## Extracting files
 
 ```
