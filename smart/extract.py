@@ -48,7 +48,7 @@ def extract(output_file="data/output.json"):
             code = [ele.getText() for ele in page.find_all("pre", {"class": "python"})]
             text = [ele.getText() for ele in page.find_all("p")]
             output[file_name]["content"].append(
-                {"Topic": page.find("h2").getText(), "code": code, "text": text, "keyphrases" : [], "Arxiv Paper" : []}
+                {"Topic": page.find("h2").getText(), "code": code, "text": text}
             )
     output_file = Path(output_file)
     json.dump(output, output_file.open("w"), indent=2)

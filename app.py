@@ -23,12 +23,19 @@ chapter_content = content[chapter]["content"]
 topics = [ele["Topic"] for ele in chapter_content]
 topic = st.selectbox("Topic", topics)
 
+
+
 for ctx in chapter_content:
     if topic == ctx["Topic"]:
-        st.markdown("## Text")
-        for text in ctx["text"]:
-            st.write(text)
-        if ctx["code"]:
+        st.write("Raw Json")
+        st.write(ctx)
+        col1, col2 = st.beta_columns(2)
+        with col1:
+            st.markdown("## Text")
+            for text in ctx["text"]:
+                st.write(text)
+        with col2:
             st.markdown("## Code")
             for code in ctx["code"]:
                 st.text(code)
+        
