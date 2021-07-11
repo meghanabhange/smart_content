@@ -3,3 +3,4 @@ git+https://github.com/boudinfl/pke.git
 SpeechRecognition
 pydub
 wikipedia
+pyaudio
