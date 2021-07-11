@@ -1,1 +1,4 @@
+libasound-dev 
+portaudio19-dev 
+libportaudiocpp0
 python-pyaudio

@@ -9,8 +9,6 @@ import speech_recognition as sr
 import streamlit as st
 import wikipedia
 from nltk.corpus import stopwords
-from pydub import AudioSegment, silence
-from pydub.playback import play
 
 def get_wikipedia(key):
   key = wikipedia.search(key)[0]
