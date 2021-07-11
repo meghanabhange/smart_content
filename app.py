@@ -5,7 +5,6 @@ import time
 from pathlib import Path
 
 import pandas as pd
-import pke
 import speech_recognition as sr
 import streamlit as st
 import wikipedia
