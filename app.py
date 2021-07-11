@@ -66,46 +66,50 @@ for ctx in chapter_content:
         st.write("Raw Json")
         st.write(ctx)
 
-        r = sr.Recognizer()
-        mic_list = sr.Microphone.list_microphone_names()
-        # mic_name = mic_list[0]
-        # st.sidebar.success(f"Using {mic_name}")
         st.sidebar.title("Wikipedia Query Answering System")
         st.sidebar.write("If you have any query about the content on this page, you can use the 'Ask Wikipedia' button to ask an audio query and we will find an answer for you from wikipedia.")
+        
+        r = sr.Recognizer()
+        mic_list = sr.Microphone.list_microphone_names()
+        if not mic_list:
+            st.sidebar.warn("No Mic Found")
+        else : 
+            mic_name = mic_list[0]
+            st.sidebar.success(f"Using {mic_name}")
 
-        sample_rate = 48000
+            sample_rate = 48000
 
-        chunk_size = 2048
+            chunk_size = 2048
 
-        with sr.Microphone(
-            device_index=0, sample_rate=sample_rate, chunk_size=chunk_size
-        ) as source:
-            r.adjust_for_ambient_noise(source)
+            with sr.Microphone(
+                device_index=0, sample_rate=sample_rate, chunk_size=chunk_size
+            ) as source:
+                r.adjust_for_ambient_noise(source)
 
-            if st.sidebar.button("Ask An Audio Query to Wikipedia"):
-                audio = r.listen(source)
+                if st.sidebar.button("Ask An Audio Query to Wikipedia"):
+                    audio = r.listen(source)
 
-                try:
-                    text = r.recognize_google(audio)
-                    st.sidebar.success("you said: " + text)
-                    if text : 
-                        st.sidebar.success(
-                            f"Hey, I found wikipedia information about {text}"
+                    try:
+                        text = r.recognize_google(audio)
+                        st.sidebar.success("you said: " + text)
+                        if text : 
+                            st.sidebar.success(
+                                f"Hey, I found wikipedia information about {text}"
+                            )
+                            summary, url = get_wikipedia(text)
+                            context = summary
+                            st.sidebar.markdown("### Wikipedia Summary:")
+                            st.sidebar.write(summary)
+                            st.sidebar.write(f"Read more on wikipedia : {url}")
+
+                    except sr.UnknownValueError:
+                        st.sidebar.write(
+                            "Google Speech Recognition could not understand audio"
                         )
-                        summary, url = get_wikipedia(text)
-                        context = summary
-                        st.sidebar.markdown("### Wikipedia Summary:")
-                        st.sidebar.write(summary)
-                        st.sidebar.write(f"Read more on wikipedia : {url}")
 
-                except sr.UnknownValueError:
-                    st.sidebar.write(
-                        "Google Speech Recognition could not understand audio"
-                    )
-
-                except sr.RequestError as e:
-                    st.sidebar.write(
-                        "Could not request results from Google Speech Recognition service; {0}".format(
-                            e
+                    except sr.RequestError as e:
+                        st.sidebar.write(
+                            "Could not request results from Google Speech Recognition service; {0}".format(
+                                e
+                            )
                         )
-                    )
