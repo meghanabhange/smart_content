@@ -1,5 +1,4 @@
 fire
 git+https://github.com/boudinfl/pke.git
-PyAudio
 SpeechRecognition
 pydub
