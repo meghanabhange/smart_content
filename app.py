@@ -72,7 +72,7 @@ for ctx in chapter_content:
         r = sr.Recognizer()
         mic_list = sr.Microphone.list_microphone_names()
         if not mic_list:
-            st.sidebar.warn("No Mic Found")
+            st.sidebar.warning("No Mic Found")
         else : 
             mic_name = mic_list[0]
             st.sidebar.success(f"Using {mic_name}")
