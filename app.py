@@ -68,8 +68,8 @@ for ctx in chapter_content:
 
         r = sr.Recognizer()
         mic_list = sr.Microphone.list_microphone_names()
-        mic_name = mic_list[0]
-        st.sidebar.success(f"Using {mic_name}")
+        # mic_name = mic_list[0]
+        # st.sidebar.success(f"Using {mic_name}")
         st.sidebar.title("Wikipedia Query Answering System")
         st.sidebar.write("If you have any query about the content on this page, you can use the 'Ask Wikipedia' button to ask an audio query and we will find an answer for you from wikipedia.")
 
