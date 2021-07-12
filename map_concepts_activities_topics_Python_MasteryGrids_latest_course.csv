@@ -1,0 +1,1356 @@
+display_name,component_name,topic_name,url
+ps_python_swap,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_swap
+py_f_to_c_conversion,Sub,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_f_to_c_conversion,Int,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_f_to_c_conversion,Add,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_f_to_c_conversion,Call,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_f_to_c_conversion,Str,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_f_to_c_conversion,Div,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_f_to_c_conversion,Assign,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_f_to_c_conversion,Mult,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_f_to_c_conversion
+py_time_conversion,Int,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion
+py_time_conversion,FloorDiv,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion
+py_time_conversion,Call,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion
+py_time_conversion,Str,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion
+py_time_conversion,Assign,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion
+py_time_conversion,Mod,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_time_conversion
+py_vending_machine,Sub,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_vending_machine,Int,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_vending_machine,FloorDiv,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_vending_machine,Call,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_vending_machine,Str,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_vending_machine,Assign,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_vending_machine,Mult,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_vending_machine,Mod,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_vending_machine
+py_bmi_calculator,Int,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator
+py_bmi_calculator,Pow,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator
+py_bmi_calculator,Call,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator
+py_bmi_calculator,Str,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator
+py_bmi_calculator,Div,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator
+py_bmi_calculator,Assign,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator
+py_bmi_calculator,Mult,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_bmi_calculator
+py_pythagorean_theorem,Sub,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+py_pythagorean_theorem,Int,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+py_pythagorean_theorem,Pow,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+py_pythagorean_theorem,Float,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+py_pythagorean_theorem,Add,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+py_pythagorean_theorem,Call,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+py_pythagorean_theorem,Str,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+py_pythagorean_theorem,Assign,"Variables and Operations",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_pythagorean_theorem
+q_py_arithmetic1,Int,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic1&act=q_py_topic_variables&sub=q_py_arithmetic1
+q_py_arithmetic1,Div,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic1&act=q_py_topic_variables&sub=q_py_arithmetic1
+q_py_arithmetic1,Call,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic1&act=q_py_topic_variables&sub=q_py_arithmetic1
+q_py_arithmetic1,Assign,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic1&act=q_py_topic_variables&sub=q_py_arithmetic1
+q_py_arithmetic1,Sub,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic1&act=q_py_topic_variables&sub=q_py_arithmetic1
+q_py_arithmetic2,Int,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic2&act=q_py_topic_variables&sub=q_py_arithmetic2
+q_py_arithmetic2,Pow,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic2&act=q_py_topic_variables&sub=q_py_arithmetic2
+q_py_arithmetic2,Add,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic2&act=q_py_topic_variables&sub=q_py_arithmetic2
+q_py_arithmetic2,Assign,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic2&act=q_py_topic_variables&sub=q_py_arithmetic2
+q_py_arithmetic2,Mult,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_arithmetic2&act=q_py_topic_variables&sub=q_py_arithmetic2
+q_py_swap1,Int,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_swap1&act=q_py_topic_variables&sub=q_py_swap1
+q_py_swap1,Add,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_swap1&act=q_py_topic_variables&sub=q_py_swap1
+q_py_swap1,Call,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_swap1&act=q_py_topic_variables&sub=q_py_swap1
+q_py_swap1,Assign,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_swap1&act=q_py_topic_variables&sub=q_py_swap1
+ae_adl_hello,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hello
+ae_adl_hello,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hello
+ae_adl_variables,Add,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_variables
+ae_adl_variables,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_variables
+ae_adl_variables,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_variables
+ae_adl_variables,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_variables
+ae_adl_variables,Int,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_variables
+q_py_exchange1,Int,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange1&act=q_py_topic_variables&sub=q_py_exchange1
+q_py_exchange1,Float,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange1&act=q_py_topic_variables&sub=q_py_exchange1
+q_py_exchange1,Assign,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange1&act=q_py_topic_variables&sub=q_py_exchange1
+q_py_exchange1,Mult,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange1&act=q_py_topic_variables&sub=q_py_exchange1
+q_py_exchange1,Sub,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange1&act=q_py_topic_variables&sub=q_py_exchange1
+q_py_exchange2,Sub,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2
+q_py_exchange2,Int,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2
+q_py_exchange2,Float,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2
+q_py_exchange2,Call,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2
+q_py_exchange2,Div,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2
+q_py_exchange2,Assign,"Variables and Operations",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_exchange2&act=q_py_topic_variables&sub=q_py_exchange2
+ae_python_assignment,Add,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_assignment
+ae_python_assignment,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_assignment
+ae_python_assignment,Int,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_assignment
+ae_python_intro,Mult,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_intro
+ae_python_intro,Int,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_intro
+ae_python_intro,Float,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_intro
+ae_python_intro,Add,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_intro
+ae_python_intro,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_intro
+ae_python_input,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_input
+ae_python_input,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_input
+ae_python_input,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_input
+ae_adl_greet,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_greet
+ae_adl_greet,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_greet
+ae_adl_greet,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_greet
+ae_adl_input1,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input1
+ae_adl_input1,Add,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input1
+ae_adl_input1,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input1
+ae_adl_input1,Mult,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input1
+ae_adl_input1,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input1
+ae_adl_input2,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input2
+ae_adl_input2,Mult,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input2
+ae_adl_input2,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input2
+ae_adl_input2,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input2
+ae_adl_input2,Float,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_input2
+ae_python_float,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_float
+ae_python_float,Mult,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_float
+ae_python_float,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_float
+ae_python_float,Int,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_float
+ae_python_float,Float,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_float
+ae_python_float,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_float
+ae_python_float,Add,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_float
+ae_adl_arithmetics2,Int,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Float,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Div,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Sub,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Call,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Str,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Assign,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Add,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ae_adl_arithmetics2,Mult,"Variables and Operations",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_arithmetics2
+ps_python_nested_ifs,LtE,If-Else,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_nested_ifs
+ps_python_nested_ifs,Int,If-Else,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_nested_ifs
+ps_python_nested_ifs,Lt,If-Else,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_nested_ifs
+ps_python_nested_ifs,Call,If-Else,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_nested_ifs
+ps_python_nested_ifs,Str,If-Else,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_nested_ifs
+ps_python_nested_ifs,Eq,If-Else,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_nested_ifs
+ps_python_nested_ifs,If,If-Else,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_nested_ifs
+py_if_else_num,Gt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,Int,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,Lt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,Call,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,Str,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,Mod,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,Eq,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,Assign,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_num,If,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_num
+py_if_else_wage,AugAssign,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Gt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Sub,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Int,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Float,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Lt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Add,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Call,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Str,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Assign,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,Mult,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_wage,If,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_wage
+py_if_else_grade,GtE,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade
+py_if_else_grade,Int,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade
+py_if_else_grade,Call,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade
+py_if_else_grade,Str,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade
+py_if_else_grade,Eq,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade
+py_if_else_grade,Assign,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade
+py_if_else_grade,If,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_if_else_grade
+py_nested_if_temperature,Gt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature
+py_nested_if_temperature,Lt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature
+py_nested_if_temperature,Call,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature
+py_nested_if_temperature,Str,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature
+py_nested_if_temperature,Assign,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature
+py_nested_if_temperature,If,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_temperature
+py_nested_if_min_max,Gt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max
+py_nested_if_min_max,Lt,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max
+py_nested_if_min_max,Call,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max
+py_nested_if_min_max,Str,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max
+py_nested_if_min_max,Assign,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max
+py_nested_if_min_max,If,If-Else,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_nested_if_min_max
+ae_adl_ifelse,Eq,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelse
+ae_adl_ifelse,If,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelse
+ae_adl_ifelse,Assign,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelse
+ae_adl_ifelse,Str,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelse
+ae_adl_ifelse,Call,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelse
+ae_adl_ifelse,Int,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelse
+ae_adl_ifelse,Mod,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelse
+ae_adl_ifelifelse,Call,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelifelse
+ae_adl_ifelifelse,Gt,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelifelse
+ae_adl_ifelifelse,If,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelifelse
+ae_adl_ifelifelse,Assign,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelifelse
+ae_adl_ifelifelse,Int,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelifelse
+ae_adl_ifelifelse,Str,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_ifelifelse
+ae_adl_nested_if,Call,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_nested_if
+ae_adl_nested_if,GtE,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_nested_if
+ae_adl_nested_if,Lt,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_nested_if
+ae_adl_nested_if,Assign,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_nested_if
+ae_adl_nested_if,Str,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_nested_if
+ae_adl_nested_if,If,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_nested_if
+ae_adl_nested_if,Int,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_nested_if
+ae_adl_hiscore1,Call,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore1
+ae_adl_hiscore1,Int,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore1
+ae_adl_hiscore1,Gt,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore1
+ae_adl_hiscore1,Str,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore1
+ae_adl_hiscore1,Assign,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore1
+ae_adl_hiscore1,If,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore1
+ae_adl_hiscore2,Assign,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore2
+ae_adl_hiscore2,Gt,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore2
+ae_adl_hiscore2,Str,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore2
+ae_adl_hiscore2,Call,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore2
+ae_adl_hiscore2,Int,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore2
+ae_adl_hiscore2,If,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_hiscore2
+q_py_if_elif1,Int,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1
+q_py_if_elif1,Call,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1
+q_py_if_elif1,Str,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1
+q_py_if_elif1,Mod,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1
+q_py_if_elif1,Eq,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1
+q_py_if_elif1,Assign,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1
+q_py_if_elif1,If,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_if_elif1&act=q_py_topic_if_statement&sub=q_py_if_elif1
+q_py_nested_if_elif1,GtE,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if_elif1,Int,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if_elif1,Call,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if_elif1,Str,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if_elif1,Mod,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if_elif1,Eq,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if_elif1,Assign,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if_elif1,If,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if_elif1&act=q_py_topic_if_statement&sub=q_py_nested_if_elif1
+q_py_nested_if1,Gt,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement
+q_py_nested_if1,Tuple,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement
+q_py_nested_if1,Int,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement
+q_py_nested_if1,Lt,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement
+q_py_nested_if1,Call,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement
+q_py_nested_if1,Assign,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement
+q_py_nested_if1,If,If-Else,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_if1&sub=q_py_nested_if1&act=q_py_topic_if_statement
+ae_python_if,Int,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_if
+ae_python_if,If,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_if
+ae_python_if,Call,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_if
+ae_python_if,Str,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_if
+ae_python_if,Assign,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_if
+ae_python_if,Gt,If-Else,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_if
+ps_python_bigger_than,Lt,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_bigger_than
+ps_python_bigger_than,Gt,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_bigger_than
+ps_python_bigger_than,Call,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_bigger_than
+ps_python_bigger_than,Str,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_bigger_than
+ps_python_comparisons,Gt,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_comparisons
+ps_python_comparisons,Call,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_comparisons
+ps_python_comparisons,Assign,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_comparisons
+py_phone_age,FALSE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,GtE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,Int,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,Eq,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,Assign,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,Call,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,Str,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,Not,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,TRUE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,Or,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_phone_age,If,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_phone_age
+py_fail_course,Gt,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,FALSE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Int,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Eq,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Assign,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Lt,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Call,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Str,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Not,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,TRUE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,Or,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_fail_course,If,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_fail_course
+py_rent_car,And,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,FALSE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,GtE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,Int,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,Eq,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,Or,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,Call,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,Str,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,Not,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,TRUE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,Assign,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_rent_car,If,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_rent_car
+py_hot_dry,And,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,FALSE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,BitXor,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,Int,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,Eq,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,Or,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,Call,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,Str,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,Not,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,TRUE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,Assign,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_hot_dry,If,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_hot_dry
+py_three_booleans,And,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,FALSE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,Int,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,TRUE,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,Or,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,Call,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,Str,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,Not,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,Eq,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,Assign,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+py_three_booleans,If,"Boolean Expressions",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_three_booleans
+ae_adl_logic,Gt,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+ae_adl_logic,GtE,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+ae_adl_logic,Int,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+ae_adl_logic,Assign,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+ae_adl_logic,Or,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+ae_adl_logic,And,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+ae_adl_logic,Sub,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+ae_adl_logic,Lt,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_logic
+q_py_account_logic1,Gt,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1
+q_py_account_logic1,Sub,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1
+q_py_account_logic1,Int,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1
+q_py_account_logic1,Or,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1
+q_py_account_logic1,Add,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1
+q_py_account_logic1,Assign,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1
+q_py_account_logic1,GtE,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_account_logic1&act=q_py_topic_logical_operators&sub=q_py_account_logic1
+q_py_comparison_logic1,Int,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_comparison_logic1&act=q_py_topic_logical_operators&sub=q_py_comparison_logic1
+q_py_comparison_logic1,NotEq,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_comparison_logic1&act=q_py_topic_logical_operators&sub=q_py_comparison_logic1
+q_py_comparison_logic1,Lt,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_comparison_logic1&act=q_py_topic_logical_operators&sub=q_py_comparison_logic1
+q_py_comparison_logic1,Call,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_comparison_logic1&act=q_py_topic_logical_operators&sub=q_py_comparison_logic1
+q_py_comparison_logic1,Assign,"Boolean Expressions",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_comparison_logic1&act=q_py_topic_logical_operators&sub=q_py_comparison_logic1
+ae_adl_comparison,Gt,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+ae_adl_comparison,Assign,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+ae_adl_comparison,Call,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+ae_adl_comparison,Int,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+ae_adl_comparison,NotEq,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+ae_adl_comparison,Lt,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+ae_adl_comparison,Str,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+ae_adl_comparison,Eq,"Boolean Expressions",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_comparison
+py_range_one,Int,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_one
+py_range_one,Call,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_one
+py_range_one,For,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_one
+py_range_two,Int,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_two
+py_range_two,Call,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_two
+py_range_two,For,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_two
+py_range_three,Int,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_three
+py_range_three,Call,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_three
+py_range_three,For,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_range_three
+py_squares,Int,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares
+py_squares,Str,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares
+py_squares,Call,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares
+py_squares,Mult,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares
+py_squares,For,"For Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_squares
+ae_adl_for,For,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_for
+ae_adl_for,Int,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_for
+ae_adl_for,Str,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_for
+ae_adl_for,Mult,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_for
+ae_adl_for,Call,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_for
+q_py_for_loop1,Int,"For Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_for_loop1&act=q_py_topic_loops&sub=q_py_for_loop1
+q_py_for_loop1,Add,"For Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_for_loop1&act=q_py_topic_loops&sub=q_py_for_loop1
+q_py_for_loop1,Call,"For Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_for_loop1&act=q_py_topic_loops&sub=q_py_for_loop1
+q_py_for_loop1,Assign,"For Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_for_loop1&act=q_py_topic_loops&sub=q_py_for_loop1
+q_py_for_loop1,For,"For Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_for_loop1&act=q_py_topic_loops&sub=q_py_for_loop1
+ae_python_for,Str,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_for
+ae_python_for,For,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_for
+ae_python_for,Int,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_for
+ae_python_for,Mult,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_for
+ae_python_for,Call,"For Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_for
+ae_adl_functions1,FunctionDef,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions1
+ae_adl_functions1,arg,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions1
+ae_adl_functions1,Call,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions1
+ae_adl_functions1,Str,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions1
+ae_adl_functions2,Assign,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,Int,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,Div,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,Return,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,FunctionDef,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,Add,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,arg,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,Str,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions2,Call,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions2
+ae_adl_functions3,Int,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,FunctionDef,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Add,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,arg,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Float,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Assign,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Sub,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Str,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Call,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Mult,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_functions3,Return,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_functions3
+ae_adl_recursion,Str,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,If,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,Return,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,Mult,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,FunctionDef,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,Int,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,Sub,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,arg,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,Lt,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_recursion,Call,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_recursion
+ae_adl_returnvalue,Attribute,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,FunctionDef,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,Mult,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,Float,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,arg,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,Return,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,Call,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,Assign,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+ae_adl_returnvalue,Str,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_returnvalue
+q_py_fun_car1,Return,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car1,Sub,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car1,Int,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car1,Add,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car1,Call,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car1,arg,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car1,Assign,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car1,FunctionDef,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car1&act=q_py_topic_functions&sub=q_py_fun_car1
+q_py_fun_car2,Return,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,Sub,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,Int,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,Lt,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,Add,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,Call,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,arg,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,Assign,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,FunctionDef,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+q_py_fun_car2,If,Functions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_fun_car2&act=q_py_topic_functions&sub=q_py_fun_car2
+ae_python_function,Call,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,arg,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,Assign,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,Add,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,Return,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,Mult,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,Str,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,Int,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+ae_python_function,FunctionDef,Functions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_function
+py_list_basic,Index,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic
+py_list_basic,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic
+py_list_basic,Float,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic
+py_list_basic,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic
+py_list_basic,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic
+py_list_basic,Str,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic
+py_list_basic,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_basic
+py_list_fill,For,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,Attribute,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,Add,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,Str,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_fill,Mult,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_fill
+py_list_change,Index,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_change,For,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_change,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_change,AugAssign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_change,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_change,Add,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_change,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_change,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_change
+py_list_process_elements,For,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,AugAssign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,Add,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,Str,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,arg,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,Div,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,Eq,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,FunctionDef,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_process_elements,If,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_process_elements
+py_list_min_max,Index,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,Gt,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,For,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,Lt,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,Str,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_list_min_max,If,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_min_max
+py_temperature,Index,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Gt,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,For,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Attribute,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,AugAssign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Add,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Str,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Div,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Eq,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_temperature,If,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_temperature
+py_list_rotate,Index,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,Return,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,Sub,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,For,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,Add,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,USub,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,Str,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,arg,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_list_rotate,FunctionDef,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list_rotate
+py_search_list,Index,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Float,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,For,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Int,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Attribute,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,arg,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,AugAssign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,List,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Add,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Call,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Mult,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Str,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,In,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Eq,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,Assign,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,FunctionDef,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+py_search_list,If,Lists,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_search_list
+ae_adl_lists1,USub,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists1,Attribute,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists1,Int,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists1,Index,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists1,Str,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists1,Call,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists1,Assign,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists1,List,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists1
+ae_adl_lists2,For,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists2
+ae_adl_lists2,List,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists2
+ae_adl_lists2,Int,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists2
+ae_adl_lists2,Assign,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists2
+ae_adl_lists2,Call,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists2
+ae_adl_lists2,Str,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists2
+ae_adl_lists3,Index,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists3
+ae_adl_lists3,Int,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists3
+ae_adl_lists3,List,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists3
+ae_adl_lists3,For,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists3
+ae_adl_lists3,Call,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists3
+ae_adl_lists3,Mult,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists3
+ae_adl_lists3,Assign,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_lists3
+ae_adl_findmax,Int,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,Index,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,Gt,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,Call,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,List,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,If,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,For,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,Str,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+ae_adl_findmax,Assign,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_findmax
+q_py_list_access1,Index,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1
+q_py_list_access1,Int,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1
+q_py_list_access1,List,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1
+q_py_list_access1,Call,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1
+q_py_list_access1,USub,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1
+q_py_list_access1,Assign,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access1&act=q_py_topic_lists&sub=q_py_list_access1
+q_py_list_access2,Index,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2
+q_py_list_access2,For,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2
+q_py_list_access2,Int,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2
+q_py_list_access2,List,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2
+q_py_list_access2,Call,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2
+q_py_list_access2,Assign,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2
+q_py_list_access2,Mult,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_access2&act=q_py_topic_lists&sub=q_py_list_access2
+q_py_list_append1,Index,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,For,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,Int,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,Attribute,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,List,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,Add,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,Call,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,USub,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_list_append1,Assign,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_append1&act=q_py_topic_lists&sub=q_py_list_append1
+q_py_add_two_lists1,Index,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_add_two_lists1,For,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_add_two_lists1,Int,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_add_two_lists1,Attribute,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_add_two_lists1,List,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_add_two_lists1,Add,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_add_two_lists1,Call,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_add_two_lists1,Assign,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_add_two_lists1&act=q_py_topic_lists&sub=q_py_add_two_lists1
+q_py_list_remove1,Int,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1
+q_py_list_remove1,Attribute,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1
+q_py_list_remove1,List,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1
+q_py_list_remove1,Call,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1
+q_py_list_remove1,USub,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1
+q_py_list_remove1,Assign,Lists,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_remove1&act=q_py_topic_lists&sub=q_py_list_remove1
+ae_python_list,List,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,arg,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Call,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,FunctionDef,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Assign,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Str,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Attribute,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,If,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Return,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Index,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Gt,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,Int,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_list,For,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_list
+ae_python_split,Index,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,Attribute,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,Add,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,For,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,Gt,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,Call,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,FunctionDef,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,Assign,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,Str,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,If,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+ae_python_split,Int,Lists,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_split
+py_concat_str_num,Int,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num
+py_concat_str_num,Add,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num
+py_concat_str_num,Call,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num
+py_concat_str_num,Str,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num
+py_concat_str_num,Assign,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num
+py_concat_str_num,Mult,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_str_num
+py_concat_char_two_str,Slice,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,Return,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,Int,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,Add,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,Call,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,Str,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,arg,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,Assign,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_concat_char_two_str,FunctionDef,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_concat_char_two_str
+py_str_repeat_chars,Index,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,For,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,Int,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,AugAssign,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,Add,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,Call,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,Mult,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,Str,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,arg,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,Assign,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_repeat_chars,FunctionDef,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_repeat_chars
+py_str_count,And,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Index,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Slice,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Return,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Sub,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,For,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Int,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Attribute,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,AugAssign,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Add,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Call,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Str,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,arg,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Eq,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,Assign,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,FunctionDef,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+py_str_count,If,strings,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_str_count
+ae_adl_strings,Str,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_strings
+ae_adl_strings,Assign,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_strings
+ae_adl_strings,Call,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_strings
+ae_adl_strings,Add,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_strings
+q_py_concat_strings1,Int,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1
+q_py_concat_strings1,AugAssign,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1
+q_py_concat_strings1,Add,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1
+q_py_concat_strings1,Lt,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1
+q_py_concat_strings1,While,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1
+q_py_concat_strings1,Str,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1
+q_py_concat_strings1,Assign,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_concat_strings1&act=q_py_topic_strings&sub=q_py_concat_strings1
+q_py_substring1,Slice,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1
+q_py_substring1,Int,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1
+q_py_substring1,Add,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1
+q_py_substring1,Call,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1
+q_py_substring1,Str,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1
+q_py_substring1,Assign,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_substring1&act=q_py_topic_strings&sub=q_py_substring1
+ae_adl_format1,Attribute,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format1
+ae_adl_format1,Int,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format1
+ae_adl_format1,Str,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format1
+ae_adl_format1,Assign,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format1
+ae_adl_format1,Call,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format1
+ae_adl_format2,Attribute,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format2
+ae_adl_format2,Str,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format2
+ae_adl_format2,Float,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format2
+ae_adl_format2,Assign,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format2
+ae_adl_format2,Call,strings,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_format2
+q_py_output1,Tuple,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1
+q_py_output1,Int,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1
+q_py_output1,Float,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1
+q_py_output1,Call,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1
+q_py_output1,Str,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1
+q_py_output1,Mod,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output1&act=q_py_topic_output_formatting&sub=q_py_output1
+q_py_output2,Attribute,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output2&act=q_py_topic_output_formatting&sub=q_py_output2
+q_py_output2,Float,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output2&act=q_py_topic_output_formatting&sub=q_py_output2
+q_py_output2,Call,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output2&act=q_py_topic_output_formatting&sub=q_py_output2
+q_py_output2,Str,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output2&act=q_py_topic_output_formatting&sub=q_py_output2
+q_py_output3,Int,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3
+q_py_output3,Attribute,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3
+q_py_output3,Add,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3
+q_py_output3,Call,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3
+q_py_output3,Str,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3
+q_py_output3,Assign,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3
+q_py_output3,Mult,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output3&act=q_py_topic_output_formatting&sub=q_py_output3
+q_py_output4,Int,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output4&act=q_py_topic_output_formatting&sub=q_py_output4
+q_py_output4,Attribute,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output4&act=q_py_topic_output_formatting&sub=q_py_output4
+q_py_output4,Float,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output4&act=q_py_topic_output_formatting&sub=q_py_output4
+q_py_output4,Call,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output4&act=q_py_topic_output_formatting&sub=q_py_output4
+q_py_output4,Str,strings,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_output4&act=q_py_topic_output_formatting&sub=q_py_output4
+py_char_dict,Index,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,NotIn,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,For,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,Int,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,Attribute,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,AugAssign,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,List,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,Add,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,Dict,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,Str,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,In,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,Call,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,arg,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,Assign,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,FunctionDef,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_char_dict,If,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_char_dict
+py_student_score,Index,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,AugAssign,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Return,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,For,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Int,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Attribute,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,In,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,List,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Add,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Call,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Str,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,arg,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Dict,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Div,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,Assign,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,FunctionDef,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+py_student_score,If,dictionary,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_student_score
+ae_adl_dict1,arg,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,FunctionDef,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,Assign,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,Call,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,In,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,Str,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,If,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,Index,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict1,Dict,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict1
+ae_adl_dict2,Str,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict2,Add,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict2,Int,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict2,Call,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict2,FunctionDef,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict2,Assign,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict2,Index,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict2,Dict,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict2
+ae_adl_dict3,Dict,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Index,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Int,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Str,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Gt,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Assign,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,If,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,For,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Call,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Or,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,FunctionDef,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,None,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+ae_adl_dict3,Eq,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_dict3
+q_py_dict_access1,Index,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1
+q_py_dict_access1,Int,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1
+q_py_dict_access1,Call,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1
+q_py_dict_access1,Str,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1
+q_py_dict_access1,Dict,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1
+q_py_dict_access1,Assign,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access1&act=q_py_topic_dictionary&sub=q_py_dict_access1
+q_py_dict_access2,Index,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+q_py_dict_access2,Sub,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+q_py_dict_access2,Int,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+q_py_dict_access2,Add,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+q_py_dict_access2,Dict,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+q_py_dict_access2,Str,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+q_py_dict_access2,Call,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+q_py_dict_access2,Assign,dictionary,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_dict_access2&act=q_py_topic_dictionary&sub=q_py_dict_access2
+ae_python_dict,Dict,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,Call,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,arg,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,If,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,Str,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,Assign,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,Index,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,FunctionDef,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ae_python_dict,In,dictionary,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_dict
+ps_python_add_to_list,Index,values_references,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_add_to_list
+ps_python_add_to_list,For,values_references,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_add_to_list
+ps_python_add_to_list,AugAssign,values_references,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_add_to_list
+ps_python_add_to_list,Add,values_references,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_add_to_list
+ps_python_add_to_list,Call,values_references,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_add_to_list
+ps_python_add_to_list,arg,values_references,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_add_to_list
+ps_python_add_to_list,FunctionDef,values_references,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_add_to_list
+ae_adl_vals_refs1,arg,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs1
+ae_adl_vals_refs1,Int,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs1
+ae_adl_vals_refs1,Assign,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs1
+ae_adl_vals_refs1,Call,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs1
+ae_adl_vals_refs1,Str,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs1
+ae_adl_vals_refs1,FunctionDef,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs1
+ae_adl_vals_refs2,FunctionDef,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs2
+ae_adl_vals_refs2,Int,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs2
+ae_adl_vals_refs2,Index,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs2
+ae_adl_vals_refs2,Assign,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs2
+ae_adl_vals_refs2,Call,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs2
+ae_adl_vals_refs2,arg,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs2
+ae_adl_vals_refs2,List,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs2
+ae_adl_vals_refs3,Int,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs3
+ae_adl_vals_refs3,Assign,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs3
+ae_adl_vals_refs3,Index,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs3
+ae_adl_vals_refs3,Call,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs3
+ae_adl_vals_refs3,List,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs3
+ae_adl_vals_refs3,Str,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs3
+ae_adl_vals_refs3,FunctionDef,values_references,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_vals_refs3
+q_py_int_ref1,Return,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1
+q_py_int_ref1,Int,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1
+q_py_int_ref1,Call,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1
+q_py_int_ref1,FunctionDef,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1
+q_py_int_ref1,arg,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1
+q_py_int_ref1,Assign,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1
+q_py_int_ref1,Mult,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_int_ref1&act=q_py_topic_references&sub=q_py_int_ref1
+q_py_list_int_ref1,Index,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1
+q_py_list_int_ref1,Int,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1
+q_py_list_int_ref1,List,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1
+q_py_list_int_ref1,Add,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1
+q_py_list_int_ref1,Call,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1
+q_py_list_int_ref1,Assign,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1
+q_py_list_int_ref1,FunctionDef,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_int_ref1&act=q_py_topic_references&sub=q_py_list_int_ref1
+q_py_str_ref1,Return,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1
+q_py_str_ref1,Attribute,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1
+q_py_str_ref1,Call,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1
+q_py_str_ref1,Str,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1
+q_py_str_ref1,arg,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1
+q_py_str_ref1,Assign,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1
+q_py_str_ref1,FunctionDef,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_str_ref1&act=q_py_topic_references&sub=q_py_str_ref1
+q_py_list_str_ref1,Index,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,Return,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,Int,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,Attribute,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,List,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,Call,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,Str,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,arg,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,Assign,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+q_py_list_str_ref1,FunctionDef,values_references,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_str_ref1&act=q_py_topic_references&sub=q_py_list_str_ref1
+ps_python_try_except,Return,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Raise,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Int,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Float,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Add,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,ExceptHandler,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Lt,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Call,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,USub,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Str,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,arg,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,Mult,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,TryExcept,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,FunctionDef,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+ps_python_try_except,If,exceptions,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_try_except
+py_check_age,And,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Index,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Str,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,GtE,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Int,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Attribute,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,While,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,ExceptHandler,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Not,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Add,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Call,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,LtE,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,arg,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Try,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,FALSE,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,TRUE,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,Assign,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,FunctionDef,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_age,If,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_age
+py_check_product_code,And,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Index,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Slice,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,GtE,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Int,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,AugAssign,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Add,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,ExceptHandler,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,NotEq,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,While,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Call,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Str,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Try,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Eq,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,Assign,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,FunctionDef,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+py_check_product_code,If,exceptions,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_product_code
+ae_adl_tryexcept1,ExceptHandler,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept1
+ae_adl_tryexcept1,Call,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept1
+ae_adl_tryexcept1,Try,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept1
+ae_adl_tryexcept1,Str,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept1
+ae_adl_tryexcept1,Assign,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept1
+ae_adl_tryexcept1,Add,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept1
+ae_adl_tryexcept2,Div,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,Add,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,Assign,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,arg,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,ExceptHandler,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,FunctionDef,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,Return,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,Int,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,Try,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,Call,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+ae_adl_tryexcept2,Str,exceptions,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_tryexcept2
+q_py_value_except1,Index,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,Int,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,List,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,Assign,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,ExceptHandler,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,Call,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,Str,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,arg,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,TryExcept,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_value_except1,FunctionDef,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_value_except1&act=q_py_topic_exceptions&sub=q_py_value_except1
+q_py_list_except1,Index,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,For,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,Tuple,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,Int,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,AugAssign,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,Assign,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,ExceptHandler,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,Add,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,Call,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+q_py_list_except1,TryExcept,exceptions,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_list_except1&act=q_py_topic_exceptions&sub=q_py_list_except1
+ps_python_printing_file_contents,NotEq,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+ps_python_printing_file_contents,Attribute,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+ps_python_printing_file_contents,Assign,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+ps_python_printing_file_contents,ExceptHandler,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+ps_python_printing_file_contents,While,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+ps_python_printing_file_contents,Call,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+ps_python_printing_file_contents,Str,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+ps_python_printing_file_contents,TryExcept,file_handling,http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_printing_file_contents
+py_work_hours,Index,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Float,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,For,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Int,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Attribute,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,AugAssign,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,ExceptHandler,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Add,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Call,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Str,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,arg,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Try,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,Assign,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_work_hours,FunctionDef,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_work_hours
+py_file_input_stat,ExceptHandler,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Gt,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,FALSE,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,For,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Int,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Attribute,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,AugAssign,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,While,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Try,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Add,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Call,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Str,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,arg,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Not,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Return,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,TRUE,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,Assign,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,FunctionDef,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+py_file_input_stat,If,file_handling,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_file_input_stat
+ae_adl_file1,Call,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,Str,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,Div,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,Add,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,Attribute,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,For,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,Int,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,Assign,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file1,FunctionDef,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file1
+ae_adl_file2,For,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,Index,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,Assign,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,Attribute,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,Int,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,Eq,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,Str,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,FunctionDef,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,Call,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_adl_file2,If,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_file2
+ae_python_file,For,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,Lt,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,Str,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,FunctionDef,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,Int,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,Assign,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,Call,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,Index,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,If,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+ae_python_file,Attribute,file_handling,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_file
+objects_classes_point,Float,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Return,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Int,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Attribute,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,AugAssign,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,ClassDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Add,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Pow,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Call,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Mult,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Str,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,arg,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,Assign,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_point,FunctionDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_point
+objects_classes_tv,And,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Gt,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Return,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Sub,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Int,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Attribute,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,AugAssign,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,ClassDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Lt,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Str,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Call,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,USub,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,LtE,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,arg,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,FALSE,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Add,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,If,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,TRUE,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,Assign,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,FunctionDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_tv,GtE,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_tv
+objects_classes_account,And,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,If,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Gt,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Return,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,GtE,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Int,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Attribute,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,AugAssign,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,ClassDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Float,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Lt,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Call,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,USub,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Str,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,arg,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Add,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Mult,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Assign,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,FunctionDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_account,Sub,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_account
+objects_classes_loan,Return,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Sub,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Int,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Attribute,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,ClassDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Add,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Pow,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Call,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,FunctionDef,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Str,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,arg,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Div,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Assign,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+objects_classes_loan,Mult,classes_objects,http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=objects_classes_loan
+ae_adl_objects1,Attribute,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects1
+ae_adl_objects1,Call,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects1
+ae_adl_objects1,Assign,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects1
+ae_adl_objects1,Int,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects1
+ae_adl_objects2,Add,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Assign,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,ClassDef,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Call,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Attribute,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Lt,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,False,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Int,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,True,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Gt,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,If,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,arg,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Sub,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,Return,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects2,FunctionDef,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects2
+ae_adl_objects3,FunctionDef,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Index,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,AugAssign,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Add,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,arg,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Call,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Assign,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Attribute,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Int,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Return,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,ClassDef,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Sub,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+ae_adl_objects3,Dict,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_objects3
+q_py_obj_car1,Return,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,Sub,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,Int,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,Attribute,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,ClassDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,Lt,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,Add,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,Call,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,arg,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,Assign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,FunctionDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car1,If,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car1&act=q_topic_classes_objects&sub=q_py_obj_car1
+q_py_obj_car2,Gt,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Return,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Sub,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Int,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Attribute,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,ClassDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Lt,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Add,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Call,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,arg,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,Assign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,FunctionDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_car2,If,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_car2&act=q_topic_classes_objects&sub=q_py_obj_car2
+q_py_obj_account1,Index,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Return,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Sub,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Int,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Attribute,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,AugAssign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,ClassDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Add,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Dict,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,arg,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Call,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,Assign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_account1,FunctionDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_account1&sub=q_py_obj_account1&act=q_topic_classes_objects
+q_py_obj_point1,Gt,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,Return,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,Sub,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,Int,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,Attribute,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,ClassDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,Call,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,Str,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,arg,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,Assign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,FunctionDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_point1,If,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_point1&sub=q_py_obj_point1&act=q_topic_classes_objects
+q_py_obj_bus1,Gt,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Return,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Sub,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Int,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Attribute,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,ClassDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Lt,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Add,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Call,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,arg,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,Assign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,FunctionDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_bus1,If,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_bus1&sub=q_py_obj_bus1&act=q_topic_classes_objects
+q_py_obj_student1,Index,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Gt,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Return,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Sub,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,For,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Int,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Attribute,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Float,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,List,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,ClassDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Add,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Call,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Str,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,arg,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Div,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,Assign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,FunctionDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_obj_student1,If,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_obj_student1&sub=q_py_obj_student1&act=q_topic_classes_objects
+q_py_inheritance_animal1,Return,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,Int,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,Attribute,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,ClassDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,Call,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,Mult,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,Str,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,arg,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,Assign,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+q_py_inheritance_animal1,FunctionDef,classes_objects,http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_inheritance_animal1&sub=q_py_inheritance_animal1&act=q_topic_classes_objects
+ae_python_class1,Call,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class1
+ae_python_class1,Assign,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class1
+ae_python_class1,Int,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class1
+ae_python_class1,Attribute,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class1
+ae_python_class2,Lt,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Assign,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Call,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Sub,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,arg,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Attribute,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,ClassDef,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,True,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,If,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,FunctionDef,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Int,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Add,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Gt,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,Return,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ae_python_class2,False,classes_objects,http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_class2
+ps_python_iteration_addition,Int,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_addition
+ps_python_iteration_addition,Add,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_addition
+ps_python_iteration_addition,Lt,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_addition
+ps_python_iteration_addition,While,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_addition
+ps_python_iteration_addition,Call,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_addition
+ps_python_iteration_addition,Assign,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_addition
+ps_python_iteration_multiplication,Int,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_multiplication
+ps_python_iteration_multiplication,Lt,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_multiplication
+ps_python_iteration_multiplication,While,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_multiplication
+ps_python_iteration_multiplication,Call,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_multiplication
+ps_python_iteration_multiplication,Str,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_multiplication
+ps_python_iteration_multiplication,Assign,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_multiplication
+ps_python_iteration_multiplication,Mult,"While Loops",http://acos.cs.hut.fi/pitt/jsparsons/jsparsons-python/ps?example-id=ps_python_iteration_multiplication
+py_input,And,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,LtE,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,GtE,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,Int,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,Or,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,NotEq,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,While,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,Call,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,Str,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,Assign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_input,Mod,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_input
+py_divisor,Sub,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,Int,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,AugAssign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,Add,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,NotEq,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,While,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,Call,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,Str,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,Assign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_divisor,Mod,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_divisor
+py_check_adjacent,And,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,Gt,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,Sub,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,Int,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,NotEq,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,While,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,Call,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,USub,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,Str,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,Eq,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,Assign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_check_adjacent,If,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_check_adjacent
+py_digits,Gt,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,Int,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,While,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,Add,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,FloorDiv,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,Call,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,Str,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,Assign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,Mult,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_digits,Mod,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_digits
+py_find_average,Float,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,GtE,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,NotEq,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,AugAssign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,While,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Int,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Add,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Call,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Str,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Div,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,If,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Eq,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Assign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_find_average,Mod,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_find_average
+py_win_percentage,Gt,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Str,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Int,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Lt,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Add,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Or,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,While,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,FloorDiv,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Call,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,LtE,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Div,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+py_win_percentage,Assign,"While Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_win_percentage
+ae_adl_while,Mult,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_while
+ae_adl_while,Str,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_while
+ae_adl_while,Lt,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_while
+ae_adl_while,Assign,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_while
+ae_adl_while,Int,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_while
+ae_adl_while,While,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_while
+ae_adl_while,Call,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_adl_while
+q_py_while_loop1,Int,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1
+q_py_while_loop1,Add,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1
+q_py_while_loop1,Lt,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1
+q_py_while_loop1,While,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1
+q_py_while_loop1,Call,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1
+q_py_while_loop1,Assign,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop1&act=q_py_topic_loops&sub=q_py_while_loop1
+q_py_while_loop2,Int,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops
+q_py_while_loop2,Add,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops
+q_py_while_loop2,Lt,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops
+q_py_while_loop2,While,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops
+q_py_while_loop2,Call,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops
+q_py_while_loop2,Assign,"While Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_while_loop2&sub=q_py_while_loop2&act=q_py_topic_loops
+ae_python_while,NotEq,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,Str,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,Assign,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,Gt,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,Int,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,If,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,Add,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,While,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+ae_python_while,Call,"While Loops",http://acos.cs.hut.fi/pitt/jsvee/jsvee-python/ae?example-id=ae_python_while
+py_repeated_sequence,For,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence
+py_repeated_sequence,Int,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence
+py_repeated_sequence,Add,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence
+py_repeated_sequence,Call,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence
+py_repeated_sequence,Str,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence
+py_repeated_sequence,Assign,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_repeated_sequence
+py_star_patterns,Sub,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns
+py_star_patterns,For,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns
+py_star_patterns,Int,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns
+py_star_patterns,Add,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns
+py_star_patterns,Call,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns
+py_star_patterns,Str,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns
+py_star_patterns,Assign,"Nested Loops",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_star_patterns
+q_py_nested_while1,Int,"Nested Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1
+q_py_nested_while1,Add,"Nested Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1
+q_py_nested_while1,Lt,"Nested Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1
+q_py_nested_while1,While,"Nested Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1
+q_py_nested_while1,Call,"Nested Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1
+q_py_nested_while1,Assign,"Nested Loops",http://adapt2.sis.pitt.edu/quizpet/displayQuiz.jsp?rdfID=q_py_nested_while1&act=q_py_topic_loops&sub=q_py_nested_while1
+py_list2d_basic,Int,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list2d_basic
+py_list2d_basic,Index,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list2d_basic
+py_list2d_basic,Call,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list2d_basic
+py_list2d_basic,List,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list2d_basic
+py_list2d_basic,Assign,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_list2d_basic
+py_soda_survey,Index,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Gt,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,For,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Int,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Attribute,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,AugAssign,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,List,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Add,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Call,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Str,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Div,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Assign,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,Mult,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_soda_survey,If,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_soda_survey
+py_print_medals,Index,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Sub,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,For,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Int,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Attribute,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,AugAssign,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,List,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Add,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Call,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Str,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Assign,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals
+py_print_medals,Mult,"Two-Dimensional Lists",http://pawscomp2.sis.pitt.edu/pcex/index.html?lang=PYTHON&set=py_print_medals

@@ -10,6 +10,35 @@ import streamlit as st
 import wikipedia
 from nltk.corpus import stopwords
 
+import requests
+import pandas as pd 
+
+df = pd.read_csv("map_concepts_activities_topics_Python_MasteryGrids_latest_course.csv")
+
+
+def get_parsed_text(code):
+    data = {
+    'code': code,
+    'mode': 'simple'
+    }
+    response = requests.post('http://acos.cs.hut.fi/python-parser', data=data)
+    return [v for k,v in response.json()["lines"].items()][0]
+
+def get_smart_content(code_types):
+    output = []
+    for t in code_types:
+        matched_content = df[df["component_name"]==t]
+        for i, row in matched_content.iterrows():
+            output.append({
+                "url": row["url"],
+                "topic_name" : row["topic_name"]
+            })
+    return {
+        "Matched Smart Content" : output
+    }
+
+
+
 def get_wikipedia(key):
   key = wikipedia.search(key)[0]
   summary = wikipedia.summary(key)
@@ -61,6 +90,9 @@ for ctx in chapter_content:
                 outputcode = "\n".join(outputcode)
                 st.code(execcode)
                 st.text(outputcode)
+                code_types = get_parsed_text(execcode)
+                matched_urls = get_smart_content(code_types)
+                st.write(matched_urls)
                 # content = st_ace(execcode, key=code, language="python", theme="chaos", )
                 
         st.write("Raw Json")
