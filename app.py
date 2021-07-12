@@ -92,6 +92,7 @@ for ctx in chapter_content:
                 st.text(outputcode)
                 code_types = get_parsed_text(execcode)
                 matched_urls = get_smart_content(code_types)
+                st.markdown("### Matched Smart Content")
                 st.write(matched_urls)
                 # content = st_ace(execcode, key=code, language="python", theme="chaos", )
                 
