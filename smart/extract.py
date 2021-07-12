@@ -82,7 +82,6 @@ def extract(output_file="data/output.json"):
                         code_types = get_parsed_text(execcode)
                         matched_content = get_smart_content(code_types)
                         code_segment.append({
-                            "code" : code,
                             "execcode": execcode,
                             "matched_content": matched_content,
                         })
@@ -91,7 +90,8 @@ def extract(output_file="data/output.json"):
                 {
                     "Topic": page.find("h2").getText(),
                     "code_segment": code_segment,
-                    "text": text
+                    "text": text,
+                    "code" : all_code
                 }
             )
     output_file = Path(output_file)
