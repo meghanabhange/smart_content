@@ -74,8 +74,11 @@ def extract(output_file="data/output.json"):
             if all_code:
                 for code in all_code:
                     codelines = code.split("\n")
-                    execcode = [line[4:] for line in codelines if line[:3] == ">>>"]
-                    outputcode = [line for line in codelines if line[:3] != ">>>"]
+                    execcode = codelines
+                    outputcode = []
+                    if not(code.find(">>>")==-1):
+                        execcode = [line[4:] for line in codelines if line[:3] == ">>>"]
+                        outputcode = [line for line in codelines if line[:3] != ">>>"]
                     execcode = "\n".join(execcode)
                     outputcode = "\n".join(outputcode)
                     if execcode:
