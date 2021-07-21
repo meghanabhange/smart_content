@@ -5,13 +5,12 @@ import time
 from pathlib import Path
 
 import pandas as pd
-import speech_recognition as sr
 import streamlit as st
-import wikipedia
-from nltk.corpus import stopwords
 
 import requests
 import pandas as pd
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 
 df = pd.read_csv("map_concepts_activities_topics_Python_MasteryGrids_latest_course.csv")
 
@@ -22,13 +21,15 @@ def get_parsed_text(code):
     return [v for k, v in response.json()["lines"].items()][0]
 
 
-def get_smart_content(code_types):
+def get_smart_content(code_types, keywords):
     output = []
     for t in code_types:
         matched_content = df[df["component_name"] == t]
         for i, row in matched_content.iterrows():
-            output.append({"url": row["url"], "topic_name": row["topic_name"]})
-    return {"Matched Smart Content": output}
+            extacted = process.extractOne(row["topic_name"], keywords)
+            if extacted and extacted[1]>70:
+                output.append({"url": row["url"], "topic_name": row["topic_name"]})
+    return {"Matched Smart Content": output[:10]}
 
 
 def get_wikipedia(key):
@@ -62,7 +63,7 @@ chapter = st.selectbox("Chapter", chapters)
 chapter_content = content[chapter]["content"]
 topics = [ele["Topic"] for ele in chapter_content]
 topic = st.selectbox("Topic", topics)
-
+concepts = content[chapter]["concepts"]
 
 for ctx in chapter_content:
     if topic == ctx["Topic"]:
@@ -86,60 +87,10 @@ for ctx in chapter_content:
                 st.code(execcode)
                 st.text(outputcode)
                 code_types = get_parsed_text(execcode)
-                matched_urls = get_smart_content(code_types)
+                matched_urls = get_smart_content(code_types, concepts)
                 st.markdown("### Matched Smart Content")
                 st.write(matched_urls)
                 # content = st_ace(execcode, key=code, language="python", theme="chaos", )
 
         st.write("Raw Json")
         st.write(ctx)
-
-        st.sidebar.title("Wikipedia Query Answering System")
-        st.sidebar.write(
-            "If you have any query about the content on this page, you can use the 'Ask Wikipedia' button to ask an audio query and we will find an answer for you from wikipedia."
-        )
-
-        r = sr.Recognizer()
-        mic_list = sr.Microphone.list_microphone_names()
-        if not mic_list:
-            st.sidebar.warning("No Mic Found")
-        else:
-            mic_name = mic_list[0]
-            st.sidebar.success(f"Using {mic_name}")
-
-            sample_rate = 48000
-
-            chunk_size = 2048
-
-            with sr.Microphone(
-                device_index=0, sample_rate=sample_rate, chunk_size=chunk_size
-            ) as source:
-                r.adjust_for_ambient_noise(source)
-
-                if st.sidebar.button("Ask An Audio Query to Wikipedia"):
-                    audio = r.listen(source)
-
-                    try:
-                        text = r.recognize_google(audio)
-                        st.sidebar.success("you said: " + text)
-                        if text:
-                            st.sidebar.success(
-                                f"Hey, I found wikipedia information about {text}"
-                            )
-                            summary, url = get_wikipedia(text)
-                            context = summary
-                            st.sidebar.markdown("### Wikipedia Summary:")
-                            st.sidebar.write(summary)
-                            st.sidebar.write(f"Read more on wikipedia : {url}")
-
-                    except sr.UnknownValueError:
-                        st.sidebar.write(
-                            "Google Speech Recognition could not understand audio"
-                        )
-
-                    except sr.RequestError as e:
-                        st.sidebar.write(
-                            "Could not request results from Google Speech Recognition service; {0}".format(
-                                e
-                            )
-                        )
