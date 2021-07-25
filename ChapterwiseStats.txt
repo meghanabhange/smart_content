@@ -1,0 +1,170 @@
+--------------------------
+Chapter Name : 01 intro
+Number of Sections : 12
+Number of New Topics : 32
+Number of Code Snippets : 8
+Matched Content Based on Code Snippets In the Chapter : 729
+Matched Content Filtered By Keywords : 36
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Number of Sections : 13
+Number of New Topics : 18
+Number of Code Snippets : 37
+Matched Content Based on Code Snippets In the Chapter : 4706
+Matched Content Filtered By Keywords : 1495
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Number of Sections : 9
+Number of New Topics : 13
+Number of Code Snippets : 20
+Matched Content Based on Code Snippets In the Chapter : 1873
+Matched Content Filtered By Keywords : 205
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Number of Sections : 12
+Number of New Topics : 19
+Number of Code Snippets : 32
+Matched Content Based on Code Snippets In the Chapter : 4508
+Matched Content Filtered By Keywords : 263
+--------------------------
+
+--------------------------
+Chapter Name : 05 iterations
+Number of Sections : 7
+Number of New Topics : 7
+Number of Code Snippets : 15
+Matched Content Based on Code Snippets In the Chapter : 1763
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Number of Sections : 12
+Number of New Topics : 16
+Number of Code Snippets : 35
+Matched Content Based on Code Snippets In the Chapter : 4201
+Matched Content Filtered By Keywords : 793
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Number of Sections : 9
+Number of New Topics : 5
+Number of Code Snippets : 18
+Matched Content Based on Code Snippets In the Chapter : 4387
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Number of Sections : 14
+Number of New Topics : 11
+Number of Code Snippets : 50
+Matched Content Based on Code Snippets In the Chapter : 7913
+Matched Content Filtered By Keywords : 3236
+--------------------------
+
+--------------------------
+Chapter Name : 09 dictionaries
+Number of Sections : 5
+Number of New Topics : 15
+Number of Code Snippets : 9
+Matched Content Based on Code Snippets In the Chapter : 1176
+Matched Content Filtered By Keywords : 227
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Number of Sections : 9
+Number of New Topics : 13
+Number of Code Snippets : 26
+Matched Content Based on Code Snippets In the Chapter : 3888
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 11 regex
+Number of Sections : 7
+Number of New Topics : 5
+Number of Code Snippets : 13
+Matched Content Based on Code Snippets In the Chapter : 343
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 12 network
+Number of Sections : 9
+Number of New Topics : 5
+Number of Code Snippets : 9
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 13 web
+Number of Sections : 8
+Number of New Topics : 5
+Number of Code Snippets : 8
+Matched Content Based on Code Snippets In the Chapter : 54
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Number of Sections : 10
+Number of New Topics : 9
+Number of Code Snippets : 16
+Matched Content Based on Code Snippets In the Chapter : 2543
+Matched Content Filtered By Keywords : 388
+--------------------------
+
+--------------------------
+Chapter Name : 15 database
+Number of Sections : 11
+Number of New Topics : 11
+Number of Code Snippets : 16
+Matched Content Based on Code Snippets In the Chapter : 1885
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 16 viz
+Number of Sections : 1
+Number of New Topics : 0
+Number of Code Snippets : 0
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : A0 preface
+Number of Sections : 2
+Number of New Topics : 0
+Number of Code Snippets : 0
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : AA contrib
+Number of Sections : 2
+Number of New Topics : 0
+Number of Code Snippets : 0
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : AB copyright
+Number of Sections : -2
+Number of New Topics : 0
+Number of Code Snippets : 0
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------

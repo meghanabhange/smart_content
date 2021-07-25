@@ -1,0 +1,911 @@
+--------------------------
+Chapter Name : 01 intro
+Section Name : Words and sentences
+01 intro_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 149
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 01 intro
+Section Name : Conversing with Python
+01 intro_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 149
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 01 intro
+Section Name : Terminology: Interpreter and compiler
+01 intro_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 141
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 01 intro
+Section Name : What is a program?
+01 intro_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 01 intro
+Section Name : What could possibly go wrong?
+01 intro_9 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Values and types
+02 variables_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 745
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Variables
+02 variables_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 439
+Matched Content Filtered By Keywords : 52
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Comments
+02 variables_10 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 668
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Choosing mnemonic variable names
+02 variables_11 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 501
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Debugging
+02 variables_12 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 193
+Matched Content Filtered By Keywords : 13
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Variable names and keywords
+02 variables_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Statements
+02 variables_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 149
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Operators and operands
+02 variables_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 498
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Expressions
+02 variables_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 75
+Matched Content Filtered By Keywords : 1
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Modulus operator
+02 variables_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 145
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : String operations
+02 variables_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 282
+Matched Content Filtered By Keywords : 20
+--------------------------
+
+--------------------------
+Chapter Name : 02 variables
+Section Name : Asking the user for input
+02 variables_9 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1011
+Matched Content Filtered By Keywords : 76
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Boolean expressions
+03 conditional_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 179
+Matched Content Filtered By Keywords : 17
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Logical operators
+03 conditional_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 11
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Conditional execution
+03 conditional_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 175
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Alternative execution
+03 conditional_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 86
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Chained conditionals
+03 conditional_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 161
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Nested conditionals
+03 conditional_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 258
+Matched Content Filtered By Keywords : 2
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Catching exceptions using try and except
+03 conditional_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 721
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Short-circuit evaluation of logical expressions
+03 conditional_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 282
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 03 conditional
+Section Name : Debugging
+03 conditional_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Function calls
+04 functions_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 149
+Matched Content Filtered By Keywords : 8
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Built-in functions
+04 functions_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 298
+Matched Content Filtered By Keywords : 16
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Type conversion functions
+04 functions_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 596
+Matched Content Filtered By Keywords : 32
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Math functions
+04 functions_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 657
+Matched Content Filtered By Keywords : 31
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Random numbers
+04 functions_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 364
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Adding new functions
+04 functions_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 555
+Matched Content Filtered By Keywords : 40
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Definitions and uses
+04 functions_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 54
+Matched Content Filtered By Keywords : 8
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Parameters and arguments
+04 functions_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 574
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 04 functions
+Section Name : Fruitful functions and void functions
+04 functions_9 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1261
+Matched Content Filtered By Keywords : 71
+--------------------------
+
+--------------------------
+Chapter Name : 05 iterations
+Section Name : Updating variables
+05 iterations_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 573
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 05 iterations
+Section Name : The while statement
+05 iterations_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 141
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 05 iterations
+Section Name : Infinite loops
+05 iterations_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 159
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 05 iterations
+Section Name : Finishing iterations with continue
+05 iterations_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 18
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 05 iterations
+Section Name : Definite loops using for
+05 iterations_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 209
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 05 iterations
+Section Name : Loop patterns
+05 iterations_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 663
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : A string is a sequence
+06 strings_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 658
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : Getting the length of a string using len
+06 strings_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 648
+Matched Content Filtered By Keywords : 45
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : Format operator
+06 strings_10 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 310
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : Debugging
+06 strings_11 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 18
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : Traversal through a string with a loop
+06 strings_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 180
+Matched Content Filtered By Keywords : 12
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : String slices
+06 strings_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 423
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : Strings are immutable
+06 strings_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 282
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : Looping and counting
+06 strings_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 141
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : The in operator
+06 strings_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 5
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : String comparison
+06 strings_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 161
+Matched Content Filtered By Keywords : 4
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : String methods
+06 strings_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1234
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 06 strings
+Section Name : Parsing strings
+06 strings_9 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 141
+Matched Content Filtered By Keywords : 10
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Opening files
+07 files_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 580
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Text files and lines
+07 files_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 141
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Reading files
+07 files_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 870
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Searching through a file
+07 files_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1160
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Letting the user choose the file name
+07 files_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Using try, except, and open
+07 files_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Writing files
+07 files_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 766
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 07 files
+Section Name : Debugging
+07 files_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : A list is a sequence
+08 lists_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 228
+Matched Content Filtered By Keywords : 85
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Lists are mutable
+08 lists_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 532
+Matched Content Filtered By Keywords : 126
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Objects and values
+08 lists_10 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 452
+Matched Content Filtered By Keywords : 49
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Aliasing
+08 lists_11 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 495
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : List arguments
+08 lists_12 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 807
+Matched Content Filtered By Keywords : 156
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Debugging
+08 lists_13 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1851
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Traversing a list
+08 lists_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 295
+Matched Content Filtered By Keywords : 94
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : List operations
+08 lists_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 235
+Matched Content Filtered By Keywords : 70
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : List slices
+08 lists_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 344
+Matched Content Filtered By Keywords : 86
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : List methods
+08 lists_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 510
+Matched Content Filtered By Keywords : 129
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Deleting elements
+08 lists_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 680
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Lists and functions
+08 lists_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 601
+Matched Content Filtered By Keywords : 109
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Lists and strings
+08 lists_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 593
+Matched Content Filtered By Keywords : 109
+--------------------------
+
+--------------------------
+Chapter Name : 08 lists
+Section Name : Parsing lines
+08 lists_9 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 09 dictionaries
+Section Name : Dictionary as a set of counters
+09 dictionaries_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 433
+Matched Content Filtered By Keywords : 32
+--------------------------
+
+--------------------------
+Chapter Name : 09 dictionaries
+Section Name : Dictionaries and files
+09 dictionaries_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 16
+--------------------------
+
+--------------------------
+Chapter Name : 09 dictionaries
+Section Name : Looping and dictionaries
+09 dictionaries_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 453
+Matched Content Filtered By Keywords : 48
+--------------------------
+
+--------------------------
+Chapter Name : 09 dictionaries
+Section Name : Advanced text parsing
+09 dictionaries_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Section Name : Tuples are immutable
+10 tuples_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1857
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Section Name : Comparing tuples
+10 tuples_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 176
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Section Name : Tuple assignment
+10 tuples_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1088
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Section Name : Dictionaries and tuples
+10 tuples_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 302
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Section Name : Multiple assignment with dictionaries
+10 tuples_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 236
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Section Name : The most common words
+10 tuples_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 10 tuples
+Section Name : Using tuples as keys in dictionaries
+10 tuples_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 229
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 11 regex
+Section Name : Character matching in regular expressions
+11 regex_0 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 11 regex
+Section Name : Extracting data using regular expressions
+11 regex_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 11 regex
+Section Name : Combining searching and extracting
+11 regex_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 11 regex
+Section Name : Escape character
+11 regex_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 11 regex
+Section Name : Debugging
+11 regex_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 343
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 12 network
+Section Name : The world’s simplest web browser
+12 network_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 12 network
+Section Name : Retrieving an image over HTTP
+12 network_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 12 network
+Section Name : Retrieving web pages with urllib
+12 network_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 12 network
+Section Name : Reading binary files using urllib
+12 network_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 12 network
+Section Name : Parsing HTML using regular expressions
+12 network_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 12 network
+Section Name : Parsing HTML using BeautifulSoup
+12 network_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 13 web
+Section Name : Parsing XML
+13 web_1 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 13 web
+Section Name : Looping through nodes
+13 web_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 13 web
+Section Name : Parsing JSON
+13 web_4 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 13 web
+Section Name : Application 1: Google geocoding web service
+13 web_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 13 web
+Section Name : Application 2: Twitter
+13 web_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 54
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Summary
+14 objects_10 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Using objects
+14 objects_2 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 678
+Matched Content Filtered By Keywords : 96
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Starting with programs
+14 objects_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 290
+Matched Content Filtered By Keywords : 32
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Our first Python object
+14 objects_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 1243
+Matched Content Filtered By Keywords : 186
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Classes as types
+14 objects_6 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 14
+Matched Content Filtered By Keywords : 14
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Object lifecycle
+14 objects_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 14
+Matched Content Filtered By Keywords : 14
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Multiple instances
+14 objects_8 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 14
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 14 objects
+Section Name : Inheritance
+14 objects_9 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 15 database
+Section Name : Creating a database table
+15 database_3 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 388
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 15 database
+Section Name : Spidering Twitter using a database
+15 database_5 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 721
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 15 database
+Section Name : Programming with multiple tables
+15 database_7 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 776
+Matched Content Filtered By Keywords : 0
+--------------------------
+
+--------------------------
+Chapter Name : 15 database
+Section Name : Using JOIN to retrieve data
+15 database_9 of New Topics : 1
+Matched Content Based on Code Snippets In the Chapter : 0
+Matched Content Filtered By Keywords : 0
+--------------------------
